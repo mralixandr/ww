@@ -1,1 +1,11 @@
+title: MrAlixandr~#
+#description: Try Harder!!!
+show_downloads: false
+show_repo: false
 theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
